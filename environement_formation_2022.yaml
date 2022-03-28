@@ -13,7 +13,7 @@ dependencies:
   - seaborn
   - jupyter
   - xarray
-  - netcfd4
+  - netCDF4
   - pyqt=5
   - xlrd
   - xlwt
