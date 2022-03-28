@@ -34,8 +34,10 @@ Lundi 4 avril 2022
 
 Mardi 5 avril 2022
 
-    * **scipy_overview.ipynb** Alex 30min
+   * **scipy_overview.ipynb** Alex 30min
        REPARTIR de celui du GDR
+       -> le son ne se lit pas dans vscode (bug non résolu je crois)
+       mais ok dans ipython notebook
 
    * **file_manipulation** Sam 45min
        REPARTIR de celui du GDR
@@ -48,18 +50,18 @@ Mardi 5 avril 2022
    
    * **seaborn_base** Alex 20min
 
+   * **neo** Sam 15min
+   -> marche bien (vscode)
 
-
-  * **neo** Sam 15min
-
-  * **ephyviewer** Sam 15min
+   * **ephyviewer** Sam 15min
       TODO demo plus riche
+      -> dans vscode et ipython noyrbook, erreurs
 
-  * **Exo avec EEG** Alex 2h00
+   * **Exo avec EEG** Alex 2h00
+   -> marche bien #TODO finir solutions
 
 
 Mercredi 6 avril 2022
-
 
    * **sklearn** Sam 45min
       TODO revoir tout enlever le côté dataframe
@@ -75,7 +77,7 @@ Mercredi 6 avril 2022
    * **python_and_R** Sam 16h05 - 16h25
        TODO: le projet est il viable ??????
 
-  * **Exo final** Sam
+   * **Exo final** Sam
     3 h
 
    
