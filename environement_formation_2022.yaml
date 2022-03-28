@@ -1,0 +1,23 @@
+name: formation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip>=21.0
+  - numpy==1.21
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - xarray
+  - netcfd4
+  - pyqt=5
+  - xlrd
+  - xlwt
+  - openpyxl
+  - pip:
+    - ephyviewer
+    - neo>=0.10.2
