@@ -28,9 +28,10 @@
 
 **Mardi 5 avril 2022**
 
-
-  * **scipy_overview.ipynb** Alex 30min
+   * **scipy_overview.ipynb** Alex 30min
        REPARTIR de celui du GDR
+       -> le son ne se lit pas dans vscode (bug non résolu je crois)
+       mais ok dans ipython notebook
   * OK **file_manipulation** Sam 45min
   * **pandas_base** Sam 45min
   * **pandas_exo** Sam 1h
@@ -40,13 +41,12 @@
   * **seaborn_base** Alex 20min
   * OK **neo** Sam 15min
   * OK **ephyviewer** Sam 15min
-      TODO demo plus riche
 
-  * **Exo avec EEG** Alex 2h00
+   * **Exo avec EEG** Alex 2h00
+   -> marche bien #TODO finir solutions
 
 
 Mercredi 6 avril 2022
-
 
    * **sklearn** Sam 45min
       TODO revoir tout enlever le côté dataframe
@@ -62,7 +62,7 @@ Mercredi 6 avril 2022
    * **python_and_R** Sam 16h05 - 16h25
        TODO: le projet est il viable ??????
 
-  * **Exo final** Sam
+   * **Exo final** Sam
     3 h
     
 Horaires:
