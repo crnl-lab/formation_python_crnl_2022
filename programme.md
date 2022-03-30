@@ -52,12 +52,9 @@ Mercredi 6 avril 2022
       TODO revoir tout enlever le côté dataframe
       trouver un exo
 
-   * **Formula_statsmodels** Sam 20min
+   * OK **Formula_statsmodels** Sam 20min
 
-   * **xarray** Sam 30min
-      prendre celui du GDR
-      ajouter un exo
-      
+   * OK **xarray** Sam 30min
 
    * **python_and_R** Sam 16h05 - 16h25
        TODO: le projet est il viable ??????
