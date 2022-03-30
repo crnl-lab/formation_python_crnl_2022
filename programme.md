@@ -59,7 +59,7 @@ Mercredi 6 avril 2022
    * **python_and_R** Sam 16h05 - 16h25
        TODO: le projet est il viable ??????
 
-   * **Exo final** Sam
+   * OK **Exo final** Sam
     3 h
     
 Horaires:
