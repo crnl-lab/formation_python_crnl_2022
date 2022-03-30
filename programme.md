@@ -33,8 +33,8 @@
        -> le son ne se lit pas dans vscode (bug non résolu je crois)
        mais ok dans ipython notebook
   * OK **file_manipulation** Sam 45min
-  * **pandas_base** Sam 45min
-  * **pandas_exo** Sam 1h
+  * OK **pandas_base** Sam 45min
+  * OK **pandas_exo** Sam 1h
 
 
    
