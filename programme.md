@@ -20,7 +20,7 @@
         
    * **numpy_indexing**  Alex 45min
       TODO revioir exo1
-   * **numpy_advance** Alex 40min
+   * **numpy_advance** Alex (SAM qui fait le NB) 40min
       TODO introduire np.stack
       TODO reformuler les exos
    * OK **matplotlib_base** Sam 1h
@@ -37,8 +37,7 @@
   * OK **pandas_exo** Sam 1h
 
 
-   
-  * **seaborn_base** Alex 20min
+  * OK **seaborn_base** Alex 20min
   * OK **neo** Sam 15min
   * OK **ephyviewer** Sam 15min
 
@@ -61,7 +60,8 @@ Mercredi 6 avril 2022
 
    * OK **Exo final** Sam
     3 h
-    
+
+
 Horaires:
  * 9h30 - 10h45
  * 11h00 - 12h45
@@ -71,11 +71,17 @@ Horaires:
 
    
 TODO:
- envoyer un mail install
-   anaconda activer le PATH !!!
-   plugin python/jupyter vscode
-   repas
-   horaire
-  verifier paquet yaml
+  * mail formation cluster
+  * exo EEG Alex
+  * numpy advance Sam
+  * sklean Sam
+  * scipy Alex
+  * numpy_indexing Alex
+
+
+
+
+
+
   
  
