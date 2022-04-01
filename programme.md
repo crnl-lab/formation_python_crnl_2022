@@ -43,11 +43,6 @@ Horaires:
  * 13h45 - 15h15
  * 15h30 - 17h00
 
-   
-TODO:
-  * exo EEG Alex
-  * slice loop Sam
-  * numpy_indexing Alex
 
 
 
