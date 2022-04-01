@@ -15,6 +15,7 @@ dependencies:
   - xarray
   - netCDF4
   - pyqt=5
+  - pyqtgraph
   - xlrd
   - xlwt
   - openpyxl
