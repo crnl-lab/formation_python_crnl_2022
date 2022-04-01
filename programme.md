@@ -28,8 +28,7 @@
 
 **Mardi 5 avril 2022**
 
-   * **scipy_overview.ipynb** Alex 30min
-       REPARTIR de celui du GDR
+  * OK **scipy_overview.ipynb** Alex 30min
        -> le son ne se lit pas dans vscode (bug non résolu je crois)
        mais ok dans ipython notebook
   * OK **file_manipulation** Sam 45min
