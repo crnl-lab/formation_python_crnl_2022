@@ -12,6 +12,9 @@
    * **numpy_advance** Alex  40min
    * **matplotlib_base** Sam 1h
   
+   * **numpy_advance** Sam  40min
+   * **matplotlib_base** Sam 1h
+
 
 **Mardi 5 avril 2022**
 
