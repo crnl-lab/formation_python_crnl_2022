@@ -5,13 +5,10 @@
 
 
 **Lundi 4 avril 2022**
-
-
    
    * **bonjour**
    * **intro python/anaconda** 20min Sam 9h30 - 9h50
    * **jupyter/jupyterlab vs IDE** 20min Sam 9h50 - 10h10
-
    * OK **Base_language** Alex 1h
    * **loop_index_slice** Sam 45min
         REVOIR BEAUCOUP EXO
@@ -20,9 +17,7 @@
         
    * **numpy_indexing**  Alex 45min
       TODO revioir exo1
-   * **numpy_advance** Alex (SAM qui fait le NB) 40min
-      TODO introduire np.stack
-      TODO reformuler les exos
+   * **numpy_advance** Alex  40min
    * OK **matplotlib_base** Sam 1h
 
 
@@ -44,7 +39,7 @@
    -> marche bien #TODO finir solutions
 
 
-Mercredi 6 avril 2022
+**Mercredi 6 avril 2022**
 
    * **sklearn** Sam 45min
       TODO revoir tout enlever le côté dataframe
@@ -67,7 +62,6 @@ Horaires:
 
    
 TODO:
-  * mail formation cluster
   * exo EEG Alex
   * numpy advance Sam
   * sklean Sam
