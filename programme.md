@@ -17,7 +17,7 @@
         
    * **numpy_indexing**  Alex 45min
       TODO revioir exo1
-   * **numpy_advance** Alex  40min
+   * **numpy_advance** Sam  40min
    * OK **matplotlib_base** Sam 1h
 
 
