@@ -12,10 +12,10 @@
    * **intro python/anaconda** 20min Sam 9h30 - 9h50
    * **jupyter/jupyterlab vs IDE** 20min Sam 9h50 - 10h10
 
-   * **Base_language** Alex 1h
+   * OK **Base_language** Alex 1h
    * **loop_index_slice** Sam 45min
         REVOIR BEAUCOUP EXO
-   * **numpy_base**  Alex 30min
+   * OK **numpy_base**  Alex 30min
 
         
    * **numpy_indexing**  Alex 45min
