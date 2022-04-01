@@ -1,56 +1,37 @@
 
-
-
-
-
-
 **Lundi 4 avril 2022**
    
-   * **bonjour**
    * **intro python/anaconda** 20min Sam 9h30 - 9h50
    * **jupyter/jupyterlab vs IDE** 20min Sam 9h50 - 10h10
-   * OK **Base_language** Alex 1h
+   * **Base_language** Alex 1h
    * **loop_index_slice** Sam 45min
         REVOIR BEAUCOUP EXO
-   * OK **numpy_base**  Alex 30min
+   * **numpy_base**  Alex 30min
 
-        
    * **numpy_indexing**  Alex 45min
-      TODO revioir exo1
    * **numpy_advance** Alex  40min
-   * OK **matplotlib_base** Sam 1h
-
+   * **matplotlib_base** Sam 1h
+  
 
 **Mardi 5 avril 2022**
 
-  * OK **scipy_overview.ipynb** Alex 30min
-       -> le son ne se lit pas dans vscode (bug non résolu je crois)
-       mais ok dans ipython notebook
-  * OK **file_manipulation** Sam 45min
-  * OK **pandas_base** Sam 45min
-  * OK **pandas_exo** Sam 1h
+  * **scipy_overview.ipynb** Alex 30min
+  * **file_manipulation** Sam 45min
+  * **pandas_base** Sam 45min
+  * **pandas_exo** Sam 1h
 
-
-  * OK **seaborn_base** Alex 20min
-  * OK **neo** Sam 15min
-  * OK **ephyviewer** Sam 15min
-
+  * **seaborn_base** Alex 20min
+  * **neo** Sam 15min
+  * **ephyviewer** Sam 15min
    * **Exo avec EEG** Alex 2h00
-   -> marche bien #TODO finir solutions
 
 
 **Mercredi 6 avril 2022**
 
-   * **sklearn** Sam 45min
-      TODO revoir tout enlever le côté dataframe
-      trouver un exo
-
-   * OK **Formula_statsmodels** Sam 20min
-
-   * OK **xarray** Sam 30min
-
-   * OK **Exo final** Sam
-    3 h
+   * **sklearn** Sam 1h
+   * **Formula_statsmodels** Sam 30min
+   * **xarray** Sam 40min
+   * **Exo final** Sam 3h
 
 
 Horaires:
@@ -59,13 +40,10 @@ Horaires:
  * 13h45 - 15h15
  * 15h30 - 17h00
 
-
    
 TODO:
   * exo EEG Alex
-  * numpy advance Sam
-  * sklean Sam
-  * scipy Alex
+  * slice loop Sam
   * numpy_indexing Alex
 
 
