@@ -54,9 +54,6 @@ Mercredi 6 avril 2022
 
    * OK **xarray** Sam 30min
 
-   * **python_and_R** Sam 16h05 - 16h25
-       TODO: le projet est il viable ??????
-
    * OK **Exo final** Sam
     3 h
 
